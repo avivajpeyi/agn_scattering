@@ -19,7 +19,6 @@ ipython_config.py
 # Bilby
 *.json
 *.dat
-*.npz
 *.pickle
 outdir*
 ### Example user template template
